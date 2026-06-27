@@ -56,3 +56,4 @@ You can find the source files and their licenses in the `WebDriverAgentLib/Vendo
 Have fun!
 # Trigger build
 # Trigger iOS build
+# Auto-build
